@@ -147,8 +147,8 @@ const SUBJECTS_DEF = [
     label: "Liam",
     type: "Child",
     short: "C",
-    color: "#f59e0b",
-    alertColor: "#fcd34d",
+    color: "#00d4ff",
+    alertColor: "#5aecff",
     initPos: "9,6",
   },
   {
@@ -156,8 +156,8 @@ const SUBJECTS_DEF = [
     label: "Grace",
     type: "Elderly",
     short: "E",
-    color: "#22d3ee",
-    alertColor: "#67e8f9",
+    color: "#66b3ff",
+    alertColor: "#99d1ff",
     initPos: "9,7",
   },
 ];
