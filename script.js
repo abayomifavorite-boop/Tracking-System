@@ -144,9 +144,9 @@ function buildSafeZone() {
 const SUBJECTS_DEF = [
   {
     id: "C1",
-    label: "Liam",
+    label: "Dara",
     type: "Child",
-    short: "C",
+    short: "D",
     color: "#00ff66",
     alertColor: "#66ffaa",
     initPos: "9,6",
