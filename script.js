@@ -146,9 +146,9 @@ const SUBJECTS_DEF = [
     id: "C1",
     label: "Dara",
     type: "Child",
-    short: "D",
-    color: "#00ff66",
-    alertColor: "#66ffaa",
+    short: "C",
+    color: "#f59e0b",
+    alertColor: "#fcd34d",
     initPos: "9,6",
   },
   {
@@ -608,7 +608,7 @@ function TrackingSystem() {
           ),
           React.createElement('div', { className: 'leg-item' },
             React.createElement('div', { className: 'leg-box', style: { background: '#f59e0b' } }),
-            'Liam (Child)'
+            'Dara (Child)'
           ),
           React.createElement('div', { className: 'leg-item' },
             React.createElement('div', { className: 'leg-box', style: { background: '#22d3ee' } }),

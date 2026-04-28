@@ -254,7 +254,7 @@ svg.map {
   gap: 7px;
   padding: 10px 13px;
   border-top: 1px solid #0c2d46;
-  background: #020910;
+  background: #020910; 
   flex-shrink: 0;
 }
 .btn {
